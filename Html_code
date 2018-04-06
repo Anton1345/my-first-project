@@ -1,0 +1,17 @@
+The skeleton of the site I take from http://htmlshell.com
+
+Which simplifies my work in the first stage
+
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>title</title>
+  <link rel="stylesheet" href="stylesheet.css" type="text/css">
+  </head>
+  <body>
+  <h1>my first project on the GitHub</h1>
+  </body>
+</html>
